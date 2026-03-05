@@ -9,3 +9,12 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Jupyter Notebook
+notebooks/
+
+# Apps files with Streamlit and Gradio
+/gradio_app.py
+/streamlit_app.py
+
+
